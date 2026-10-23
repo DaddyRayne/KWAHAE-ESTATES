@@ -1,0 +1,6 @@
+{
+  "name": "KWAHAE ESTATES - Senanga Property Rentals",
+  "description": "Find and advertise houses, shops, bedsitters, and offices for rent in Senanga District, Western Province, Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
